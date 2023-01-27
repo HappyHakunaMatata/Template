@@ -1,0 +1,27 @@
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/bin/Debug/netcoreapp3.1/lab1_test.exe
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/bin/Debug/netcoreapp3.1/lab1_test.deps.json
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/bin/Debug/netcoreapp3.1/lab1_test.runtimeconfig.json
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/bin/Debug/netcoreapp3.1/lab1_test.runtimeconfig.dev.json
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/bin/Debug/netcoreapp3.1/lab1_test.dll
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/bin/Debug/netcoreapp3.1/lab1_test.pdb
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.csprojAssemblyReference.cache
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.AssemblyInfo.cs
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.dll
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.pdb
+C:/Users/User/Desktop/RecoverMyPass/lab1_test/lab1_test/obj/Debug/netcoreapp3.1/lab1_test.genruntimeconfig.cache
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/bin/Debug/netcoreapp3.1/Template
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/bin/Debug/netcoreapp3.1/Template.deps.json
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/bin/Debug/netcoreapp3.1/Template.runtimeconfig.json
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/bin/Debug/netcoreapp3.1/Template.runtimeconfig.dev.json
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/bin/Debug/netcoreapp3.1/Template.dll
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/bin/Debug/netcoreapp3.1/Template.pdb
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.csproj.AssemblyReference.cache
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.AssemblyInfoInputs.cache
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.AssemblyInfo.cs
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.csproj.CoreCompileInputs.cache
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.dll
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.pdb
+/Users/main/Desktop/Новая папка/Template-main/Template/Template/obj/Debug/netcoreapp3.1/Template.genruntimeconfig.cache
